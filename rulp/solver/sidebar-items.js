@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Status",""]],"struct":[["SimplexSolver",""],["Solution",""]],"trait":[["SolverBase",""]]});
